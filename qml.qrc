@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="Note.qml">qml/Note.qml</file>
+        <file alias="PopupButton.qml">qml/PopupButton.qml</file>
+        <file alias="TagItem.qml">qml/TagItem.qml</file>
+        <file alias="arrow_down.png">img/arrow_down.png</file>
+        <file alias="arrow_up.png">img/arrow_up.png</file>
+        <file alias="close.png">img/close.png</file>
+        <file alias="add.png">img/add.png</file>
+        <file alias="arrow_left.png">img/arrow_left.png</file>
+        <file alias="arrow_right.png">img/arrow_right.png</file>
+        <file alias="settings.png">img/settings.png</file>
+        <file alias="edit.png">img/edit.png</file>
+    </qresource>
+</RCC>
